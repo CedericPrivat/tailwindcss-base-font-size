@@ -56,10 +56,10 @@ The default value is `10`.
 
 If you are using the Tailwind CSS IntelliSense extension in Visual Studio Code, it's recommended to update your `settings.json` file to ensure that the preview correctly reflects the base font size. Add the following configuration to your `settings.json`:
 
-```json
+```js
 {
   // ...
-  "tailwindCSS.rootFontSize": 10
+  "tailwindCSS.rootFontSize": 10,
 }
 ```
 
