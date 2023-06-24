@@ -12,7 +12,7 @@ type ResolvedConfig = ReturnType<typeof resolveConfig>;
 
 const DEFAULT_BASE_FONT_SIZE = 10;
 
-export const baseFontSizePlugin = plugin.withOptions<Options>(
+export = plugin.withOptions<Options>(
   ({ baseFontSize = DEFAULT_BASE_FONT_SIZE } = {}) => {
     return ({ addBase }) => {
       addBase({
