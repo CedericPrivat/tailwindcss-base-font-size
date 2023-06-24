@@ -13,7 +13,7 @@ By using this plugin, you can customize the base font size and ensure that all u
 Install the plugin from npm:
 
 ```sh
-npm install @tailwindcss/container-queries
+npm install tailwindcss-base-font-size
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
