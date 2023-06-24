@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-base-font-size",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Tailwind CSS plugin to set the base font size in proportion to Tailwind's default utility values.",
   "keywords": [
     "tailwind",

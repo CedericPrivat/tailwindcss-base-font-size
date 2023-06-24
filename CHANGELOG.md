@@ -9,4 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Nothing yet!
 
-[unreleased]: https://github.com/CedericPrivat/tailwindcss-base-font-size/compare/v0.0.0...HEAD
+## [1.0.0] - 2023-06-24
+
+### Added
+
+- Add new base font size plugin
+
+[unreleased]: https://github.com/CedericPrivat/tailwindcss-base-font-size/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/CedericPrivat/tailwindcss-base-font-size/releases/v1.0.0
