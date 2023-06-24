@@ -1,0 +1,39 @@
+{
+  "name": "tailwindcss-base-font-size",
+  "version": "0.0.0",
+  "description": "A Tailwind CSS plugin to set the base font size in proportion to Tailwind's default utility values.",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "postcss",
+    "plugin",
+    "font",
+    "fontSize",
+    "font size",
+    "font-size",
+    "base",
+    "base fontSize",
+    "base font size",
+    "base-font-size",
+    "rem"
+  ],
+  "homepage": "https://github.com/CedericPrivat/tailwindcss-base-font-size#readme",
+  "bugs": {
+    "url": "https://github.com/CedericPrivat/tailwindcss-base-font-size/issues"
+  },
+  "repository": "https://github.com/CedericPrivat/tailwindcss-base-font-size",
+  "license": "MIT",
+  "author": "Cederic Privat <cederic.privat@gmail.com> (https://cedericprivat.com)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "peerDependencies": {
+    "tailwindcss": ">=3.3.2 || insiders"
+  }
+}
