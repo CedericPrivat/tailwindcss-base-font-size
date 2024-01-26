@@ -31,7 +31,7 @@
     "dist"
   ],
   "scripts": {
-    "swcify": "swc ./src/index.ts --out-dir ./dist",
+    "swcify": "swc ./src/index.ts --out-file ./dist/index.js",
     "build": "npm run swcify",
     "postbuild": "tsc --emitDeclarationOnly",
     "dev": "npm run swcify -- --watch"
