@@ -39,7 +39,7 @@
   "devDependencies": {
     "@swc/cli": "^0.3.12",
     "@swc/core": "^1.5.7",
-    "tailwindcss": "^3.4.3",
+    "tailwindcss": "^3.4.4",
     "typescript": "^5.4.5"
   },
   "peerDependencies": {
