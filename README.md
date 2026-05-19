@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This package is no longer maintained.**
+
 # tailwindcss-base-font-size
 
 A Tailwind CSS plugin to set the base font size in proportion to Tailwind's default utility values.
